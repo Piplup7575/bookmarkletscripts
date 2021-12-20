@@ -7,14 +7,14 @@ if running without console, add `javascript:` ahead of it, and bookmark it.
 run for an autoclicker, clicks once per miliseconds you set it to  
 *im working on making the clicker stop, i'll probaly do what i did with the popupbrowser, but i'm lazy*  
 
-**popupbrowser.js**
+**popupbrowser.js**  
 use this and it opens a iframe on your page to bing, you can then search anything up without it showing up in your history. lanschool can still see that you are on it though  
   
-**closepopupbrowser.js**
+**closepopupbrowser.js**  
 closes popupbrowser when run  
   
-**cloakschoology.js**
+**cloakschoology.js**  
 when run, changes favicon and title of page to look like the home page of schoology, but doesn't change the url  
   
-**cloakschoology.js**
+**cloakschoology.js**  
 when run, changes favicon and title of page to look like the drive.google.com page, but doesn't change the url  
