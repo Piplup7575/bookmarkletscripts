@@ -3,6 +3,8 @@ a bunch of crap scripts I've made because my site got taken down
   
 if running without console, add `javascript:` ahead of it, and bookmark it.  
   
+add ad issue if you find an issue, create a pull request if you have more scripts to add, i'll give credit
+  
 **autoclicker.js**  
 run for an autoclicker, clicks once per miliseconds you set it to  
 *im working on making the clicker stop, i'll probaly do what i did with the popupbrowser, but i'm lazy*  
