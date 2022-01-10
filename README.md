@@ -1,5 +1,5 @@
 # bookmarkletscripts  
-a bunch of crap scripts I've made because my site got taken down  
+a bunch of bad scripts I've made because my site got taken down  
   
 if running without console, add `javascript:` ahead of it, and bookmark it.  
   
