@@ -23,3 +23,6 @@ when run, changes favicon and title of page to look like the home page of school
   
 **cloakschoology.js**  
 when run, changes favicon and title of page to look like the drive.google.com page, but doesn't change the url  
+
+**snow.js**
+causes particles to drift down your screen
