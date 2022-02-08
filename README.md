@@ -7,7 +7,10 @@ add an issue if you find an issue, create a pull request if you have more script
   
 **autoclicker.js**  
 run for an autoclicker, clicks once per miliseconds you set it to  
-*im working on making the clicker stop, i'll probaly do what i did with the popupbrowser, but i'm lazy*  
+*UPDATE* Stop auoclucker created!  
+
+**stopautoclicker.js**  
+stops autoclicker from running
 
 **popupbrowser.js**  
 use this and it opens a iframe on your page to bing, you can then search anything up without it showing up in your history. lanschool can still see that you are on it though  
