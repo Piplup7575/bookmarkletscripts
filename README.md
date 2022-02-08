@@ -25,7 +25,4 @@ use this and it opens a iframe on your page to a snake game, use arrow keys to c
 when run, changes favicon and title of page to look like the home page of schoology, but doesn't change the url  
   
 **cloakschoology.js**  
-when run, changes favicon and title of page to look like the drive.google.com page, but doesn't change the url  
-
-**snow.js**
-causes particles to drift down your screen
+when run, changes favicon and title of page to look like the drive.google.com page, but doesn't change the url 
