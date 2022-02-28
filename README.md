@@ -18,9 +18,6 @@ use this and it opens a iframe on your page to bing, you can then search anythin
 **closepopupbrowser.js**  
 closes popupbrowser when run  
 
-**snake.js**  
-use this and it opens a iframe on your page to a snake game, use arrow keys to control, closes when you die
-  
 **cloakschoology.js**  
 when run, changes favicon and title of page to look like the home page of schoology, but doesn't change the url  
   
